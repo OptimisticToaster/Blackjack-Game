@@ -8,3 +8,7 @@ Blackjack - classic card game
 * Cards count as face value. Face cards are 10. Ace is 1 or 11 at player's choice.
 * Hands that count over 21 are declared busted and the player loses (or ties if a player and dealer both bust).
 * Dealer plays by rules - draw up to 16, stay at 17+.
+
+## Development
+
+Will likely draw on some base class files used in https://github.com/OptimisticToaster/War-Game.
